@@ -1,126 +1,96 @@
-# PROJECT CHARTER
-## CampusHelp – University Student Service Request Portal
+# CampusHelp Project Charter
 
-### 1. Project Information
+## 1. Project Title
+CampusHelp – University Student Service Request Portal
 
-- **Project Name:** CampusHelp
-- **Project Type:** University Service Management System
-- **Project Manager:** Student A (Project Manager)
-- **Project Sponsor:** University Administration (Simulated)
-- **Project Duration:** 10 Working Days
-- **Project Platform:** GitHub
+## 2. Project Overview
+CampusHelp is a proposed online platform that allows university students to submit service requests and enables administrators to manage, track, and respond to those requests efficiently.
 
-### 2. Business Problem
+## 3. Problem Statement
+Students may experience difficulties when submitting service requests and tracking their status. The project aims to provide a centralized and organized system for communication between students and university administration.
 
-Currently, university students submit service requests through emails and paper forms. These methods make it difficult to track requests, monitor their status, and ensure that problems are resolved on time.
+## 4. Project Objectives
+- Develop a student request submission interface.
+- Create an administrator dashboard.
+- Allow students to select request categories and priorities.
+- Improve request tracking and management.
+- Provide confirmation after request submission.
 
-As a result, students may experience delays, and university administrators may struggle to manage and organize incoming requests efficiently.
-
-### 3. Project Objective
-
-The main objective of CampusHelp is to plan and demonstrate a centralized web-based portal that allows university students to submit service requests and monitor their progress.
-
-The project aims to improve communication between students and university service departments through a simple and organized request management process.
-
-### 4. Project Scope
+## 5. Project Scope
 
 **In Scope:**
-
-- Student service request submission.
-- Request categories and priority levels.
-- Unique request ID generation (demonstrated in prototype).
-- Administrator request assignment.
-- Request status updates.
-- Dashboard showing open, ongoing, and completed requests.
-- Interface mockups and a demonstration prototype.
+- Student request submission interface.
+- Request categories and priority selection.
+- Administrator dashboard prototype.
+- Request status visibility.
+- Prototype testing and documentation.
 
 **Out of Scope:**
+- Full production deployment.
+- Integration with external university systems.
+- Real payment processing.
+- Advanced mobile application development.
 
-- Real user authentication.
-- Production server deployment.
-- Live SMS and email notification services.
-- Integration with existing university systems.
-- Full production-ready application development.
+## 6. Project Deliverables
+- Project Charter
+- Stakeholder Requirements
+- Work Breakdown Structure (WBS)
+- Project Schedule and Budget
+- Wireframes and Mockups
+- Risk and Quality Plan
+- Student Interface Prototype
+- Administrator Dashboard Prototype
+- Test Cases and Verification Report
+- Final Project Report
 
-### 5. Project Stakeholders
+## 7. Team Structure
 
-| Stakeholder | Role / Interest |
-|---|---|
-| University Students | Submit and track requests |
-| IT Support Staff | Resolve technical issues |
-| Administrators | Assign and manage requests |
-| Maintenance Staff | Handle maintenance requests |
-| University Administration | Project sponsor |
-
-### 6. Team Structure and Responsibilities
-
-| Member | Role | Responsibilities |
+| Team Member | Role | Responsibilities |
 |---|---|---|
-| Student A | Project Manager | Project charter, schedule, milestones, monitoring and change control |
-| Student B | Business Analyst & Designer | Requirements, stakeholder analysis, wireframes, prototype and final report |
-| Student C | Quality & Risk Coordinator | WBS, risk register, test cases, quality assurance and issue tracking |
+| Madinabonu | Project Manager | Project coordination, schedule, budget and documentation |
+| Dolunay | Business Analyst & Designer | Requirements analysis, wireframes and interface design |
+| Mohinur | Quality & Risk Coordinator | Risk management, quality planning and testing |
 
-### 7. Project Deliverables
+## 8. Project Timeline
+The project will be completed within 10 working days.
 
-1. Project Charter.
-2. Stakeholder Requirements Document.
-3. Work Breakdown Structure (WBS).
-4. Project Schedule and Budget.
-5. Risk Register and Quality Plan.
-6. Student Request Interface Prototype.
-7. Administrator Dashboard Prototype.
-8. Test Cases and Verification Report.
-9. Change Request Document.
-10. Final Project Closure Report.
+- Start Date: November 18, 2026
+- Completion Date: December 1, 2026
 
-### 8. Project Constraints
+**Major Milestones:**
+- M1 – Project Initiation: November 19
+- M2 – Project Planning: November 23
+- M3 – Project Execution: November 26
+- M4 – Monitoring and Closure: December 1
 
-- The project must be completed within 10 working days.
-- The team consists of three students.
-- Limited time and resources are available.
-- No external service charges are included.
-- The project focuses on management documentation and a demonstration prototype rather than full software development.
+## 9. Estimated Budget
+- Total Estimated Effort: 45 person-hours
+- Cost per Person-Hour: 50,000 UZS
+- Total Estimated Budget: 2,250,000 UZS
 
-### 9. Project Assumptions
+## 10. Key Stakeholders
+- University students
+- University administration
+- Project team members
+- Course instructor
 
-- Students and university staff will use the proposed portal.
-- University administration supports the project concept.
-- Team members have access to GitHub.
-- All team members will contribute to project activities.
-- The prototype will demonstrate the main system processes.
+## 11. Key Risks
+- Delays in completing assigned tasks.
+- Communication problems among team members.
+- Changes in project requirements.
+- Technical issues during prototype development.
+- Insufficient time for testing and documentation.
 
-### 10. Estimated Project Budget
+## 12. Success Criteria
+- All major project deliverables are completed.
+- All four milestones are reviewed.
+- Each team member contributes to the repository.
+- At least three pull requests are submitted and reviewed.
+- At least six test cases are documented.
+- The final report is submitted by the deadline.
 
-The estimated project effort is 45 person-hours.
+## 13. Approval
+This project charter establishes the initial direction, scope, objectives, responsibilities, timeline, and estimated budget for the CampusHelp project.
 
-Hourly rate: 50,000 UZS.
-
-Total estimated budget:
-
-45 × 50,000 = 2,250,000 UZS.
-
-This is a simulated planning cost for academic purposes.
-
-### 11. Measurable Success Criteria
-
-The project will be considered successful if:
-
-1. All six proposed system features are represented in the requirements or interface designs.
-2. All four project milestones are completed and reviewed.
-3. All 12 mandatory GitHub Issues are created and tracked.
-4. At least six prototype test cases are documented and evaluated.
-5. The final project report and supporting documents are submitted.
-6. Each team member provides evidence of individual contribution.
-
-### 12. Project Approval
-
-This Project Charter establishes the initial scope, objectives, responsibilities, and constraints of the CampusHelp project.
-
-The project will proceed according to the approved schedule and will be monitored throughout its lifecycle.
-
-| Approval Role | Name | Status |
-|---|---|---|
-| Project Manager | Student A | Pending |
-| Business Analyst & Designer | Student B | Pending |
-| Quality & Risk Coordinator | Student C | Pending |
-| Project Sponsor | University Administration (Simulated) | Pending |
+**Prepared by:** CampusHelp Project Team  
+**Date:** November 2026
